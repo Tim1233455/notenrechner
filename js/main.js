@@ -34,7 +34,7 @@ function tfAuslesen() {
     function test() {
         if (ergebnis < 5) {
 
-            document.getElementById("ausgabe").style.color = "darkred"
+            document.getElementById("ausgabe").style.color = "red"
         } else {
             if (ergebnis > 12) {
 
